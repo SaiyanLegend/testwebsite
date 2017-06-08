@@ -46,3 +46,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 ruby '2.3.0'
 
 #added gems below
+
+#added bootstrap
+gem 'bootstrap', '~> 4.0.0.alpha6'
